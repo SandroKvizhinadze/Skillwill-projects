@@ -22,3 +22,9 @@ public class Animal {
         }
     }
 }
+/*
+ "C:\Program Files\Java\jdk-22\bin\java.exe" -javaagent:D:\downloads\ideaIC-2024.1.4.win\lib\idea_rt.jar=52834:D:\downloads\ideaIC-2024.1.4.win\bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\PC\Desktop\Java\Test\out\production\Test davaleba_2.Animal
+l am the dog
+
+Process finished with exit code 0
+ */
